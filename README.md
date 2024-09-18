@@ -2,6 +2,8 @@
 
 Python Program that scans through 2000+ Stock Tickers to find stocks with high expected value for option sellers.
 
+![image](https://github.com/user-attachments/assets/76b1615a-273e-4803-ac08-0a3ca2ee8e04)
+
 ---
 
 Basic Option Selling Premium Explanation:
